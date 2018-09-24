@@ -1,0 +1,4 @@
+neta:
+  application:
+    name: NETA-APP
+    version: 1.5

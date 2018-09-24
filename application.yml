@@ -1,0 +1,4 @@
+neta:
+  application:
+    name: Aplicacion de prueba
+    version: 1.0
